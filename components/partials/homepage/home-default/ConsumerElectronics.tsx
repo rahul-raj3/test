@@ -134,7 +134,7 @@ const CarouselCard = (props: any) => {
         />
       </svg>
       <span className="absolute top-0 left-0 m-2 rounded-full bg-gradient-to-br from-pink-500 to-orange-400 hover:bg-gradient-to-bl focus:ring-4 focus:outline-none focus:ring-pink-200 dark:focus:ring-pink-800 px-2 text-center text-sm font-medium text-white">
-        39% OFF
+        39% OFFss
       </span>
     </Link>
     <div className="mt-4 px-5 pb-5">
